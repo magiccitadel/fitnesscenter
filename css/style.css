@@ -7,9 +7,6 @@
   width: 200px;
   background-color: rgba(0, 0, 0, 0.1843137255);
   height: 100%;
-  background-image: url(../model/640-ai-generated-an-athlete-is-running-in-front-of-a-black-background\ \(1\).jpg);
-  background-blend-mode: darken;
-  background-size: cover;
   font-family: "montserrat", sans-serif;
 }
 @media screen and (min-width: 180px) {
@@ -286,7 +283,7 @@ header .header-container .sidebar-container .sidebar .side-menu .side-list .side
   background-color: rgba(0, 0, 0, 0);
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: 80% -100px;
+  background-position: 80% -80px;
 }
 @media screen and (min-width: 768px) {
   .intro {
@@ -311,7 +308,7 @@ header .header-container .sidebar-container .sidebar .side-menu .side-list .side
 }
 @media screen and (min-width: 992px) {
   .intro h1 {
-    font-size: 70px;
+    font-size: 65px;
     font-weight: 500;
     line-height: 79.2px;
   }
